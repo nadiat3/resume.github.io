@@ -1,2 +1,2 @@
-# resume.github.io
+# index.github.io
 Resume Website
